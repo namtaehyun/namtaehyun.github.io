@@ -21,4 +21,4 @@ GradleException이 Android API 29 or 30에서 지원하지 않는것 같음
 
 ## 자세히 보기
 
-[https://github.com/flutter/flutter/issues/29608#issuecomment-548649907](https://github.com/flutter/flutter/issues/29608#issuecomment-548649907){:target="\_blank"}
+[https://github.com/flutter/flutter/issues/29608#issuecomment-548649907](https://github.com/flutter/flutter/issues/29608#issuecomment-548649907){: target="\_blank"}
