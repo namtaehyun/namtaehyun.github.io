@@ -42,4 +42,4 @@ file: /android/app/build.gradle
 
 ## 참고
 
-<https://github.com/transistorsoft/flutter_background_geolocation/issues/18#issuecomment-448714500>
+[https://github.com/transistorsoft/flutter_background_geolocation/issues/18#issuecomment-448714500](https://github.com/transistorsoft/flutter_background_geolocation/issues/18#issuecomment-448714500)
